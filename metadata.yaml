@@ -1,0 +1,31 @@
+_repo: When-a-witch-is-young_68249
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mighels, Philip Verrill
+    alias: Verrill Mighels, Philip
+    birthdate: 1869
+    deathdate: 1911
+    gutenberg_agent_id: '6820'
+    url: http://www.gutenberg.org/2009/agents/6820
+    wikipedia: https://en.wikipedia.org/wiki/Philip_Verrill_Mighels
+description: ''
+gutenberg_issued: '2022-06-05'
+identifiers:
+  gutenberg: '68249'
+language: en
+pgterms:marc904: https://archive.org/details/whenwitchisyoung00mighiala/page/n7/mode/2up
+pgterms:marc905: 20200818214428mighels
+pgterms:marc906: '1901'
+pgterms:marc907: US
+production_note: Mary Glenn Krause, Charlene Taylor, Barry Abrahamsen, and the Online
+  Distributed Proofreading Team at https://www.pgdp.net (This file was produced from
+  images generously made available by The Internet Archive/American Libraries.)
+publication_note: United States :R. F. Fenno & Company,1901.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: When a witch is young
+url: http://www.gutenberg.org/ebooks/68249
